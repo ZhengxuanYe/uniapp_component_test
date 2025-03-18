@@ -1,0 +1,115 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path" : "pages/view/view",
+			"style" : 
+			{
+				"navigationBarTitleText" : "view"
+			}
+		},
+		{
+			"path" : "pages/scoreView/scoreView",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/swiper/swiper",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/movableView/movableView",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/icon/icon",
+			"style" : 
+			{
+				"navigationBarTitleText" : "icon"
+			}
+		},
+		{
+			"path" : "pages/text/text",
+			"style" : 
+			{
+				"navigationBarTitleText" : "text"
+			}
+		},
+		{
+			"path" : "pages/richText/richText",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/progress/progress",
+			"style" : 
+			{
+				"navigationBarTitleText" : "progress"
+			}
+		},
+		{
+			"path" : "pages/button/button",
+			"style" : 
+			{
+				"navigationBarTitleText" : "button"
+			}
+		},
+		{
+			"path" : "pages/checkbox/checkbox",
+			"style" : 
+			{
+				"navigationBarTitleText" : "checkbox"
+			}
+		},
+		{
+			"path" : "pages/input/input",
+			"style" : 
+			{
+				"navigationBarTitleText" : "input"
+			}
+		},
+		{
+			"path" : "pages/label/label",
+			"style" : 
+			{
+				"navigationBarTitleText" : "label"
+			}
+		},
+		{
+			"path" : "pages/textarea/textarea",
+			"style" : 
+			{
+				"navigationBarTitleText" : "textarea"
+			}
+		},
+		{
+			"path" : "pages/switch/switch",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
